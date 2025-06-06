@@ -1,0 +1,2 @@
+k-Anonymity (k=3): Satisfied
+l-Diversity (l=2): Satisfied
